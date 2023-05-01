@@ -2,8 +2,7 @@
 
 #differnet types of plotting
 # **Keep in mind both dataset files are on kaggle cloud to visit kaggle go to...** 
-[kaggle](htpps:https://www.kaggle.com/datasets/kapturovalexander/goldman-sachs-and-jpmorgan-chase-share-prices)
-
+## [kaggle](https://www.kaggle.com/datasets/kapturovalexander/goldman-sachs-and-jpmorgan-chase-share-prices)
 
 ## Introduction
 
